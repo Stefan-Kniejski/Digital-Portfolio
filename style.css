@@ -1,0 +1,255 @@
+/* style.css */
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    color: #222;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #1f2937;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem;
+  }
+  
+  nav {
+    background: #111827;
+    text-align: center;
+    padding: 0.9rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: 700;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .card {
+    background: #fff;
+    margin: 1rem 0;
+    padding: 1.2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  
+  .inner-card {
+    margin-top: 0.5rem;
+  }
+  
+  .about-main,
+  .resume-main,
+  .contact-main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    align-items: flex-start;
+  }
+  
+  .profile-photo {
+    width: 230px;
+    height: 230px;
+    object-fit: cover;
+    border-radius: 12px;
+    border: 3px solid #1f2937;
+    background: #ddd;
+  }
+  
+  /* About text left-aligned */
+  .about-text {
+    text-align: left;
+    max-width: 650px;
+    margin: 0 auto;
+  }
+  
+  .about-lead {
+    font-size: 1.06rem;
+    line-height: 1.8;
+    margin-bottom: 0.9rem;
+  }
+  
+  .welcome-line {
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #111827;
+    margin-top: 1rem;
+  }
+  
+  /* Use prof-home pic and center it in section */
+  .about-profile-photo {
+    object-position: center 14%;
+    width: 280px;
+    height: 280px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Center image container on about row */
+  .about-main {
+    justify-content: center;
+  }
+  
+  /* Image quality helpers */
+  .profile-photo,
+  .gallery-grid img {
+    image-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    backface-visibility: hidden;
+  }
+  
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(180px, 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+  
+  .gallery-grid img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  .gallery-grid .img-casual {
+    object-position: center 12%;
+  }
+  
+  .gallery-grid .img-classy {
+    object-position: center 20%;
+  }
+  
+  .gallery-grid .img-beach {
+    object-position: center 38%;
+  }
+  
+  /* Family pic raised slightly + centered + wider */
+  .gallery-grid .img-wide {
+    grid-column: 1 / -1;
+    max-width: 560px;
+    justify-self: center;
+    object-position: center 42%;
+  }
+  
+  .skills-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem 2rem;
+    max-width: 760px;
+    margin: 0 auto;
+  }
+  
+  .skills-grid ul {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+  
+  .skills-grid li {
+    margin-bottom: 0.4rem;
+  }
+  
+  .job-dropdown {
+    background: #f8fafc;
+    border: 1px solid #dbe3ee;
+    border-radius: 10px;
+    padding: 0.8rem 1rem;
+    margin-top: 0.8rem;
+  }
+  
+  .job-dropdown summary {
+    cursor: pointer;
+    font-weight: 700;
+    color: #0f172a;
+  }
+  
+  .job-dropdown ul {
+    margin-top: 0.8rem;
+    padding-left: 1.2rem;
+  }
+  
+  a {
+    color: #0f4c81;
+  }
+  
+  .cta {
+    margin-top: 1rem;
+    font-weight: 700;
+    color: #111827;
+  }
+  
+  .cta-fun {
+    font-size: 1.55rem;
+    color: #0b3a74;
+    letter-spacing: 0.2px;
+  }
+  
+  footer {
+    background: #1f2937;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  
+  @media (max-width: 860px) {
+    .gallery-grid {
+      grid-template-columns: repeat(2, minmax(170px, 1fr));
+    }
+  
+    .skills-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .profile-photo {
+      width: 200px;
+      height: 200px;
+    }
+  
+    .about-profile-photo {
+      width: 230px;
+      height: 230px;
+    }
+  }
+  
+  @media (max-width: 560px) {
+    .gallery-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .gallery-grid .img-wide {
+      max-width: 100%;
+    }
+  
+    .welcome-line {
+      font-size: 1.2rem;
+    }
+  
+    .cta-fun {
+      font-size: 1.25rem;
+    }
+  
+    .about-text {
+      text-align: left;
+      max-width: 100%;
+    }
+  }
