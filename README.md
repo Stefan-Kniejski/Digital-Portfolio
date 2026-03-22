@@ -1,46 +1,59 @@
-Digital Portfolio
+# Digital Portfolio
 
-A personal digital portfolio showcasing my professional background, technical skills, and data-focused projects. This site serves as a centralized space to present my experience in data analysis, system development, and workflow optimization across healthcare, financial services, and IT environments.
+A personal digital portfolio showcasing professional background, technical skills, and data-focused projects. The site is a single place to present experience in data analysis, system development, and workflow optimization across healthcare, financial services, and IT.
 
-🔗 Live Portfolio
+## Live site
 
-Visit the live site here:
-https://stefan-kniejski.github.io/Digital-Portfolio/
+[https://stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
 
-📌 Overview
+## Overview
 
-This portfolio was created to demonstrate:
+This portfolio is meant to show:
 
-Professional experience and career progression
-Technical and analytical skill set
-Hands-on project work and applied problem solving
-Ability to communicate information through a clean, structured interface
-🧰 Features
-Clean, responsive layout for easy navigation
-Sections highlighting professional experience, education, and skills
-Dedicated project showcases with links to external work
-Simple and accessible design focused on readability and usability
-🧑‍💻 Purpose
+- Professional experience and career progression
+- Technical and analytical skills
+- Hands-on projects and applied problem solving
+- Clear communication through a structured, easy-to-read layout
 
-The goal of this portfolio is to:
+## Features
 
-Provide a centralized location for recruiters and collaborators to review my work
-Demonstrate applied knowledge of data concepts and analytical thinking
-Present projects and experience in a structured, professional format
-Serve as an evolving platform to continuously add new work and capabilities
-🛠️ Technologies Used
-HTML
-CSS
-GitHub Pages (hosting)
-📁 Structure
-index.html – Main portfolio page
-styles.css – Styling and layout
-assets/ – Images and supporting files (if applicable)
-🚀 Future Improvements
-Add additional project case studies
-Enhance interactivity and UI elements
-Expand visualizations and embedded content
-Continue updating with new projects and experience
-📬 Contact
-Email: sckniejski@gmail.com
-LinkedIn: https://linkedin.com/in/stefan-kniejski
+- Responsive layout and simple navigation across pages
+- About, resume, projects, and contact sections
+- Project highlights with links to external work where relevant
+- Accessible, readable typography and spacing
+
+## Purpose
+
+- Give recruiters and collaborators one place to review my work
+- Demonstrate data and analytical thinking in context
+- Present experience and projects in a professional format
+- Grow over time as I add projects and roles
+
+## Tech stack
+
+- HTML
+- CSS
+- [GitHub Pages](https://pages.github.com/) (hosting)
+
+## Repository structure
+
+| Path | Description |
+|------|-------------|
+| `index.html` | About / home |
+| `resume.html` | Resume |
+| `projects.html` | Projects |
+| `contact.html` | Contact |
+| `style.css` | Shared styles |
+| `pics/` | Images (e.g. profile photos) |
+
+## Future ideas
+
+- More project case studies and depth
+- Light interactivity where it helps the story
+- Embedded charts or visualizations where they add value
+- Ongoing updates for new roles and projects
+
+## Contact
+
+- Email: [sckniejski@gmail.com](mailto:sckniejski@gmail.com)
+- LinkedIn: [linkedin.com/in/stefan-kniejski](https://linkedin.com/in/stefan-kniejski)
