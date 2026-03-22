@@ -4,7 +4,7 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-**Primary (stable) URL:** [stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
+https://digitalportfolio-theta.vercel.app/
 
 The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
 
