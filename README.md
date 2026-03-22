@@ -17,6 +17,8 @@ The same navigation bar appears on every page (**About Me**, **Resume**, **Proje
 
 If a page still looks like an older version, try a hard refresh (e.g. Ctrl+F5) or open **Projects** from the table above.
 
+**Vercel (deployment overview):** [digitalportfolio on Vercel](https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6) — project dashboard for this site; use **Domains** on that page for the public `*.vercel.app` URL to share with visitors.
+
 ## Overview
 
 This portfolio is meant to show:
@@ -45,6 +47,7 @@ This portfolio is meant to show:
 - HTML
 - CSS
 - [GitHub Pages](https://pages.github.com/) (hosting)
+- [Vercel](https://vercel.com/) — [this deployment](https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6)
 
 ## Repository structure
 
