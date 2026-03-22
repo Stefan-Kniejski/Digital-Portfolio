@@ -4,7 +4,7 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-https://digitalportfolio-theta.vercel.app/
+https://digital-portfolio-seven-self.vercel.app/
 
 The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
 
