@@ -4,7 +4,7 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-Base URL: https://digitalportfolio-mauve.vercel.app/
+**Primary (stable) URL:** [stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
 
 The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
 
@@ -17,7 +17,7 @@ The same navigation bar appears on every page (**About Me**, **Resume**, **Proje
 
 If a page still looks like an older version, try a hard refresh (e.g. Ctrl+F5) or open **Projects** from the table above.
 
-**Vercel (deployment overview):** [digitalportfolio on Vercel](https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6) — project dashboard for this site; use **Domains** on that page for the public `*.vercel.app` URL to share with visitors.
+**Vercel:** [project dashboard](https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6) (sign in). Use **Domains** there for your current `*.vercel.app` URL. Preview deployments expire; if you see `DEPLOYMENT_NOT_FOUND`, redeploy and update any links to the new production URL.
 
 ## Overview
 
