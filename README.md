@@ -15,10 +15,6 @@ The same navigation bar appears on every page (**About Me**, **Resume**, **Proje
 | **Projects** | [**projects.html**](https://stefan-kniejski.github.io/Digital-Portfolio/projects.html) |
 | Contact | [contact.html](https://stefan-kniejski.github.io/Digital-Portfolio/contact.html) |
 
-If a page still looks like an older version, try a hard refresh (e.g. Ctrl+F5) or open **Projects** from the table above.
-
-**Vercel:** [project dashboard](https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6) (sign in). Use **Domains** there for your current `*.vercel.app` URL. Preview deployments expire; if you see `DEPLOYMENT_NOT_FOUND`, redeploy and update any links to the new production URL.
-
 ## Overview
 
 This portfolio is meant to show:
