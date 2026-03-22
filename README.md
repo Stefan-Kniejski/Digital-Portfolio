@@ -4,7 +4,18 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-[https://stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
+Base URL: [stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
+
+The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
+
+| Page | Link |
+|------|------|
+| About / home | [index.html](https://stefan-kniejski.github.io/Digital-Portfolio/) |
+| Resume | [resume.html](https://stefan-kniejski.github.io/Digital-Portfolio/resume.html) |
+| **Projects** | [**projects.html**](https://stefan-kniejski.github.io/Digital-Portfolio/projects.html) |
+| Contact | [contact.html](https://stefan-kniejski.github.io/Digital-Portfolio/contact.html) |
+
+If a page still looks like an older version, try a hard refresh (e.g. Ctrl+F5) or open **Projects** from the table above—GitHub Pages can be cached briefly in the browser after updates.
 
 ## Overview
 
