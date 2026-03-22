@@ -4,16 +4,16 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-Base URL: [digitalportfolio-mauve.vercel.app](https://digitalportfolio-mauve.vercel.app/)
+Base URL: [stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
 
 The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
 
 | Page | Link |
 |------|------|
-| About / home | [Home](https://digitalportfolio-mauve.vercel.app/) |
-| Resume | [resume.html](https://digitalportfolio-mauve.vercel.app/resume.html) |
-| **Projects** | [**projects.html**](https://digitalportfolio-mauve.vercel.app/projects.html) |
-| Contact | [contact.html](https://digitalportfolio-mauve.vercel.app/contact.html) |
+| About / home | [Home](https://stefan-kniejski.github.io/Digital-Portfolio/) |
+| Resume | [resume.html](https://stefan-kniejski.github.io/Digital-Portfolio/resume.html) |
+| **Projects** | [**projects.html**](https://stefan-kniejski.github.io/Digital-Portfolio/projects.html) |
+| Contact | [contact.html](https://stefan-kniejski.github.io/Digital-Portfolio/contact.html) |
 
 If a page still looks like an older version, try a hard refresh (e.g. Ctrl+F5) or open **Projects** from the table above.
 
@@ -44,7 +44,7 @@ This portfolio is meant to show:
 
 - HTML
 - CSS
-- [Vercel](https://vercel.com/) (hosting)
+- [GitHub Pages](https://pages.github.com/) (hosting)
 
 ## Repository structure
 
