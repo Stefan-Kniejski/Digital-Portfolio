@@ -4,7 +4,7 @@ A personal digital portfolio showcasing professional background, technical skill
 
 ## Live site
 
-Base URL: [stefan-kniejski.github.io/Digital-Portfolio/](https://stefan-kniejski.github.io/Digital-Portfolio/)
+Base URL: https://vercel.com/stefan-kniejskis-projects/digitalportfolio/9Hx6pJW42M7zidxUQZ1wpuuCLCb6
 
 The same navigation bar appears on every page (**About Me**, **Resume**, **Projects**, **Contacts**). Direct links:
 
